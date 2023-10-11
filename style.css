@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+   background-color: rgba(233, 100, 76, 0.89)
+}
+nav{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+nav img{
+margin: 0 5rem;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 23px;
+    color: white;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+section{
+   
+    height: 150vh;
+   font-family: 'Display Fair';
+}
+.hero{
+    width: 88vw;
+    position: relative;
+    left: 55px;
+    top: 31rem;
+    }
+section h1{
+    color: white;
+    font-size: 3rem;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 12rem;
+}
+section p{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 12rem;
+    font-family: 'Open Sans', sans-serif;
+   font-weight: 300;
+   margin: 10px;
+}
+#p1{
+    margin-top: 23px;
+}
+.btn{
+    color: rgba(233, 100, 76, 0.89) ;
+    background-color:white;
+    padding: 15px 23px;
+    border: none;
+    border-radius: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+   bottom: 9rem;
+   left: 37rem;
+}
+.icon{
+    position: relative;
+    left: 6rem;
+    font-size: 1.2rem;
+}
+#icon-1{
+    padding: 23px;
+}
+.sec-1{
+    background-color: rgba(233, 100, 76, 0.89) ;
+    
+}
+.logo-2{
+    position: relative;
+   left: 41rem;
+    top: 6rem;
+}
+
+.sec-2 h1{
+    color: black;
+    font-size: 2.5rem;
+    position: relative;
+    top: 6.5rem;
+    font-weight: 100;
+}
+.sec-2 p{
+    color: rgb(95, 94, 88);
+    position: relative;
+    top: 7rem;
+}
+.hero-2{
+    position: relative;
+    top: 10rem;
+    left: 4.5rem;
+}
+.hero-icon{
+    display: flex;
+   position: relative;
+   left: 45rem;
+   bottom: 25rem;
+   margin: 33px 0;
+   border: 1px solid #f1f4f4;;
+   padding: 23px;
+   border-radius:50%;
+}
+
+
+.h2-1{
+  position: relative;
+  bottom: 52rem;
+  margin-left: 53rem;
+  font-size: 1.75rem;
+  font-family: 'Playfair Display';
+  font-weight: 100;
+}
+ .h2-2{
+    position: relative;
+    bottom: 47rem;
+    margin-left: 53rem;
+    font-size: 1.75rem;
+    font-family: 'Playfair Display';
+    font-weight: 100;
+ }
+ .h2-3{
+    position: relative;
+    bottom: 35.5rem;
+    margin-left: 53rem;
+    font-size: 1.75rem;
+    font-family: 'Playfair Display';
+    font-weight: 100;
+ }
+
